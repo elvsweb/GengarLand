@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+    background-color: #A58FB5;
+}
+
+.nav-itens{
+    background-color: #B29DC3;
+    border: none;
+    border-radius: 6vw;
+    padding: 1vw 4vw;
+    align-items: center;
+    margin: 15%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+h3{
+   color: white;
+   font-family: 'League Spartan';
+   text-align: left;
+   margin-left: 20px;
+   margin-top: 1.5%; 
+}
+
+p{
+    color: white;
+    font-family: 'League Spartan';
+    text-align: left;
+    margin: 5px;
+    padding: 10px;
+    font-weight: bold; 
+    
+}
